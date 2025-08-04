@@ -314,8 +314,8 @@ td.bottom a {
 /* Color behind "Level, Stats, Branch, Territory" etc. */
 
 .inner-table .left {
-	background: #518C26 !important;
-        color: #000000;
+	background: #68007D !important;
+        color: #E4C5F2;
 	border-radius: 10px !important;
 }
 
@@ -323,7 +323,7 @@ td.bottom a {
 /* Color behind the number of all of the things above */
 
 .inner-table .right {
-	background: #9EFF94 !important;
+	background: #8800A3 !important;
 	border-radius: 10px !important;
 }
 
